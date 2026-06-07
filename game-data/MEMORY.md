@@ -1,0 +1,12 @@
+- [游戏概述](game-overview.md) — 编程农场游戏的基本设定和核心机制
+- [胡萝卜](carrot.md) — 胡萝卜的种植方法、耗材和相关信息
+- [扩张 1](expansion-1.md) — 农场变大，无人机移动系统解锁
+- [扩张 2](expansion-2.md) — 方形网格、for 循环和 get_world_size()
+- [肥料与奇异物质](fertilizer.md) — 加速生长、感染机制与物品使用
+- [种植系统](planting.md) — plant() 函数、clear() 重置、混合种植
+- [南瓜](pumpkin.md) — 巨型南瓜合并机制、枯萎风险和产量计算
+- [感官系统](senses.md) — 位置、物品数量、实体/地块检测、解锁查询
+- [向日葵](sunflower.md) — 能量收集、花瓣测量、8倍收获加成机制
+- [树](tree.md) — 高效木材来源、间距影响生长速度
+- [浇水系统](watering.md) — 含水量、生长加速、蒸发机制
+- [游戏规则](game-rules.md) — Python 语法限制（不支持 is 关键字等）
