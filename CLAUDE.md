@@ -29,6 +29,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 游戏环境是受限 Python，已知限制：
 - **不支持 `is` 关键字**：必须用 `== None` 和 `!= None` 替代 `is None` 和 `is not None`
+- **不支持 `"""` 三引号**：只能用 `#` 写注释，不能用 docstring
 - 遇到其他语法错误时，优先尝试更基础的写法
 
 ## 核心 API 速查
